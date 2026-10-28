@@ -1,0 +1,135 @@
+Pixel-Tamagotchi
+================
+
+So startest du das Spiel:
+
+Am Mac
+1. Doppelklicke auf die ZIP-Datei. Es entsteht ein Ordner "Tamagotchi".
+2. Doppelklicke im Ordner auf "index.html".
+3. Das Spiel öffnet sich im Browser (Safari oder Chrome).
+
+Am Handy (Android)
+1. Entpacke die ZIP-Datei in der App "Eigene Dateien".
+2. Öffne "index.html" mit Chrome oder dem Samsung Internet-Browser.
+   Falls das nicht klappt: Nimm einfach den Link zum Spiel aus dem Chat.
+
+Als App aufs Handy (Symbol, Vollbild, auch ohne Internet)
+Dafür muss der Ordner "Tamagotchi" im Internet liegen (eine Adresse mit
+https). Das geht kostenlos, zum Beispiel so:
+A) Netlify Drop
+   1. Öffne am Computer die Seite app.netlify.com/drop
+   2. Zieh den entpackten Ordner "Tamagotchi" in das Feld.
+   3. Du bekommst sofort eine Adresse. Damit sie bleibt, leg ein
+      kostenloses Konto an und übernimm die Seite ("Claim"). Sonst wird
+      sie nach kurzer Zeit wieder gelöscht.
+B) GitHub Pages
+   1. Leg ein kostenloses Konto bei github.com an.
+   2. Neues Repository anlegen und alle Dateien aus dem Ordner hochladen.
+   3. Unter Settings > Pages die Veröffentlichung einschalten.
+Dann die Adresse auf dem Handy öffnen:
+- iPhone (Safari): Teilen > Zum Home-Bildschirm.
+- Android (Chrome): Im Spiel unten auf "📱 Als App" > "Jetzt installieren",
+  oder im Browsermenü ⋮ > App installieren.
+Die App hat ihren eigenen Spielstand. Mit "💾 Spielstand sichern" (unten
+im Spiel) nimmst du dein Tierchen als Datei mit und lädst es dort wieder.
+
+Neu in dieser Version: Möbel benutzen
+- Tippe ein Möbelstück an (nicht beim Einrichten): Dein Tierchen geht hin
+  und benutzt es. Es gießt die Pflanze, füttert die Fische, liest im
+  Bücherregal ein Bisaya-Wort, sitzt im Sitzsack, schaukelt in der
+  Hängematte, spielt Gitarre und Klavier, hüpft auf dem Teppich, schaut
+  Bilder an und sagt dir an der Wanduhr die Zeit auf Bisaya.
+- Stehlampe, Lichterkette und Parol-Stern: Antippen macht das Licht an
+  oder aus.
+- Das macht froh (und manchmal ausgeruht), aber pro Möbelstück nur alle
+  10 Minuten.
+- Ziehen mit dem Finger beim Einrichten klappt jetzt auch auf dem Handy:
+  Die Seite rutscht dabei nicht mehr mit.
+
+Davor neu: Frei einrichten und eigene Zimmer
+- "🛠️ Einrichten": Beim ersten Mal bekommst du Zimmerpflanze, Teppich
+  und Bild geschenkt. Unter "＋ Möbel hinstellen" siehst du alles, was im
+  Lager liegt, und darunter alle Möbel zum Kaufen (direkt hinstellen).
+- Alle Möbel lassen sich antippen und mit dem Finger verschieben, auch
+  Sofa, Fernseher, Kühlschrank, Herd, Toilette, Dusche, Bett und Co.
+  (nach links oder rechts). "↺ an den alten Platz" stellt sie zurück.
+  Dein Tierchen benutzt die Möbel dann an ihrem neuen Platz.
+- "🟫 Boden": 8 Böden (Holz, Fliesen, Stein, Teppich) für jedes Zimmer.
+- Eigene Zimmer: Im Laden "🚪 Eigenes Zimmer" (ab Level 3, 250 Münzen,
+  höchstens 2). Name und Zeichen suchst du selbst aus. Das Zimmer ist
+  leer und du richtest es ganz selbst ein. Du findest es auf der Karte
+  (oben links auf den Raumnamen tippen).
+
+Noch früher neu: Lebenslauf mit 6 Stufen
+- Dein Tierchen wird: Ei, Baby, Kind, Teenie, Erwachsen, Oma oder Opa.
+  In jeder Stufe sieht es anders aus und braucht etwas anderes.
+- Ei (1 Minute): Antippen hält es warm, dann schlüpft es schneller.
+- Baby: Fläschchen (in der Küche, gratis), Windel wechseln, im Bett
+  mit Schlaflied einschlafen. Nachts weint es manchmal: antippen und
+  trösten.
+- Kind: Alle 3 Stunden Schule (eine Bisaya-Stunde mit Schulnote) und
+  Zähne putzen, besonders nach Süßem.
+- Teenie: Hat Kopfhörer und manchmal Teenie-Laune. Dann sagt es
+  "Dili!" (Nein!). Streicheln, Lieblingsessen oder Taschengeld helfen.
+  3 Teenie-Typen: Sonnenschein, Wirbelwind, Rebell.
+- Erwachsen: Geht arbeiten (15 Minuten, bringt Münzen), hat ein Hobby,
+  kann eine Familie gründen. 8 Formen, neu: Sportler, Koch, Gelehrter,
+  Tänzer. Was es wird, hängt davon ab, was ihr zusammen macht.
+- Oma oder Opa: Du wählst. Mit Brille und Gehstock, erzählt Geschichten
+  mit Bisaya-Wörtern, braucht öfter Medizin und bleibt für immer in der
+  Familie.
+- Am Ende jeder Stufe gibt es ein Zeugnis (Essen, Sauberkeit, Spaß,
+  Schlaf, Lernen). Gute Noten bringen Münzen.
+- Lebenslauf: Oben unter dem Namen auf die Stufe tippen. Dort siehst du
+  alle Stufen als Bild, die Zeit bis zur nächsten Stufe, die Zeugnisse
+  und das Tempo: Schnell (erwachsen nach 1 Tag), Normal (nach 3 Tagen)
+  oder Langsam (nach 7 Tagen). Beim Wechseln bleibt die Stufe gleich.
+- Ein Tierchen, das schon erwachsen ist, bleibt erwachsen und behält
+  seine Form.
+
+Ältere Neuheiten
+- Bisaya lernen: Im Laden-Menü gibt es den Reiter "Lernen". Jeden Tag
+  sagt dein Tierchen ein Wort des Tages. Im Bilder-Quiz lernst du
+  116 Wörter, im Wörterbuch hörst du jedes Wort. Ein Wort ist gelernt,
+  wenn du es 3-mal richtig hattest. Dafür gibt es Münzen.
+- Sprachbefehle: Im Training im Garten tippst du auf "🎤 Sag es laut" und
+  sagst den Befehl, zum Beispiel "Kaway!" oder "Winken". Das Wort des
+  Tages kannst du nachsprechen. Das Mikrofon geht in dieser Datei und in
+  der App, im Chat ist es gesperrt.
+- Spielstand: Unten "💾 Spielstand sichern" speichert dein Tierchen als
+  Datei, mit "Datei laden" holst du es auf ein anderes Gerät.
+  Im Chat-Link heißt der Knopf "☁️ Spielstand online": Dann ist dein
+  Tierchen auf Handy und PC gleich (im Claude-Konto), oder ihr pflegt es
+  zu zweit.
+- Abenteuer "Reise nach Davao": Am Bahnhof (Karte). 4 Etappen, jeden Tag
+  eine, mit Aufgaben, Postkarten und Andenken fürs Zimmer.
+- Haus einrichten: Im Laden gibt es Möbel. Im Zimmer auf "🛠️ Einrichten"
+  tippen, Möbel mit dem Finger verschieben und die Wand streichen.
+  Ab Level 4 kannst du das Dachzimmer ausbauen.
+- Haustier: Im Laden gibt es Kaninchen, Katze oder Hund. Es läuft mit,
+  will jeden Tag Futter und spielt mit deinem Tierchen.
+- Neue Spiele: Sinulog-Tanz im Takt der Trommel (zwei Schritte vor, einer
+  zurück) und Angeln. Gefangene Fische kannst du verkaufen, grillen
+  (Sinugba) oder der Katze geben.
+- Fotoalbum: Tippe im Spielbild unten rechts auf die Kamera 📷. Deine Fotos
+  findest du beim Charakter-Schild unter "Fotos". Dort kannst du sie
+  speichern, teilen oder löschen. Sie bleiben nur auf deinem Gerät.
+
+Schon dabei
+- Stimme, Geräusche, Farbe und dein Gesicht im Tierchen
+  (Charakter-Schild oben rechts: "Aussehen" und "Stimme").
+- Echtes Wetter, 4 Jahreszeiten, Feste und Kalender
+  (oben rechts auf das Wetter tippen).
+- Charakter, Wünsche, Tagebuch, Traumwelt und Familie mit Baby.
+
+Gut zu wissen
+- Das Spiel ist eine einzige Datei: index.html. Darin steckt alles.
+  Die anderen Dateien im Ordner braucht nur die App.
+- Der Spielstand wird im Browser gespeichert, in dem du das Spiel öffnest.
+  Diese Datei hat deshalb einen eigenen Spielstand. Dein Tierchen aus dem
+  Chat-Link holst du mit "Spielstand sichern" (Datei) hierher.
+- Wenn du die Browserdaten löschst, ist auch der Spielstand weg.
+- Das Spiel läuft auch ohne Internet. Dann gibt es Spielwetter statt
+  Live-Wetter, und die Schriftart sieht etwas anders aus.
+- Im Chat-Link gibt es kein Live-Wetter und kein Mikrofon, weil das Spiel
+  dort nicht ins Internet und nicht ans Mikrofon darf.
